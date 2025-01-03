@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dinakaran05/leetcode/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dinakaran05/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dinakaran05/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
