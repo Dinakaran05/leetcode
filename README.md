@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dinakaran05/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinakaran05/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dinakaran05/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Dinakaran05/leetcode/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dinakaran05/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
