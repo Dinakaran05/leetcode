@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dinakaran05/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinakaran05/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dinakaran05/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dinakaran05/leetcode/tree/master/0204-count-primes) |
 | [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dinakaran05/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dinakaran05/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
