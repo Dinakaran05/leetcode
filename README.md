@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dinakaran05/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinakaran05/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dinakaran05/leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dinakaran05/leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dinakaran05/leetcode/tree/master/0204-count-primes) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dinakaran05/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dinakaran05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dinakaran05/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinakaran05/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Dinakaran05/leetcode/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dinakaran05/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
