@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dinakaran05/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dinakaran05/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dinakaran05/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dinakaran05/leetcode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dinakaran05/leetcode/tree/master/0204-count-primes) |
+| [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dinakaran05/leetcode/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
