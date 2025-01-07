@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dinakaran05/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dinakaran05/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dinakaran05/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dinakaran05/leetcode/tree/master/0258-add-digits) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dinakaran05/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Dinakaran05/leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dinakaran05/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
