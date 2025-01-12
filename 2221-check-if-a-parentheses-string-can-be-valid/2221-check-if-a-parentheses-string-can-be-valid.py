@@ -1,32 +1,34 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
-        stringLength = len(s)
+        n = len(s)
 
-        if stringLength % 2 == 1:
+        if n % 2 == 1:
             return False
 
-        openIndices = []
-        unlockedIndices = []
+        if (locked[0] == "1" and s[0] == ")") or (locked[-1] == "1" and s[-1] == "("):
+            return False 
 
-        for i in range(stringLength):
-            if locked[i] == '0':
-                unlockedIndices.append(i)
-            elif s[i] == '(':
-                openIndices.append(i)
-            elif s[i] == ')':
-                if openIndices:
-                    openIndices.pop()
-                elif unlockedIndices:
-                    unlockedIndices.pop()
+        brackets = []
+        arr = []
+
+        for i in range(n):
+            if locked[i] == "0":
+                arr.append(i)
+            elif s[i] == "(":
+                brackets.append(i)
+            else:
+                if brackets:
+                    brackets.pop()
+                elif arr:
+                    arr.pop()
                 else:
                     return False
-        while openIndices and unlockedIndices and openIndices[-1] < unlockedIndices[-1]:
-            openIndices.pop()
-            unlockedIndices.pop()
-
-        if not openIndices and unlockedIndices:
-            return len(unlockedIndices) % 2 == 0
-
-        return not openIndices
-
         
+        while brackets and arr and brackets[-1] < arr[-1]:
+            brackets.pop()
+            arr.pop()
+
+        if brackets:
+            return False
+        
+        return True
