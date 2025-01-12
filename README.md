@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Dinakaran05/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Dinakaran05/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dinakaran05/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dinakaran05/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dinakaran05/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dinakaran05/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Dinakaran05/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dinakaran05/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Dinakaran05/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dinakaran05/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
